@@ -4,6 +4,7 @@
     "slug": "app_mobile",
     "version": "1.0.0",
     "orientation": "portrait",
+    "jsEngine": "jsc",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "ios": {
